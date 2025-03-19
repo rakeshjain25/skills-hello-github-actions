@@ -6,7 +6,7 @@ _Create and run a GitHub Actions workflow._
 
 </header>
 
-## Step 2: Add a job to your workflow file
+## Step 2: Add a job to your workflow file and folder from feature branch
 
 _Nice work! :tada: You added a workflow file!_
 
